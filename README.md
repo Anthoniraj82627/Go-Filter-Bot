@@ -4,7 +4,7 @@
 
 <img src="logo.jpg" alt="Logo">
 
-  <b>A Simple Yet Superfast Filter Bot Written In Go Inspired By <a href='https://github.com/TrojanzHex/Unlimited-Filter-Bot'>Unlimimted-Filter-Bot</a> with global filter support.</b>
+  <b>A Simple Yet Superfast Filter Bot Written In Go Inspired By <a href='https://github.com/Anthoniraj82627/Go-Filter-Bot'>Unlimimted-Filter-Bot</a> with global filter support.</b>
 </p>
 
 ## Commands
@@ -31,7 +31,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Jisin0/Go-Filter-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Anthoniraj82627/Go-Filter-Bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -98,7 +98,7 @@ You must set the Run command to :
 <p>
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
-git clone https://github.com/Jisin0/Go-Filter-Bot
+git clone https://github.com/Anthoniraj82627/Go-Filter-Bot
 cd Go-Filter-Bot
 go build .
 ./Go-Filter-Bot
@@ -117,7 +117,7 @@ Join our telegram channel for more latest news and cool projects
 ## Thanks
 
  - Thanks To Paul For His Awesome [Library](https://github.com/PaulSonOfLars/gotgbot) And Support
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+ - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/Anthoniraj82627/Go-Filter-Bot)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
